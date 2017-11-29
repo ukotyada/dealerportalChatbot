@@ -3,6 +3,6 @@ applications:
   memory: 1024M
   instances: 1
   domain: mybluemix.net
-  name: msschatbot
-  host: msschatbot
+  name: dealerportalChatbot
+  host: dealerportalChatbot
   disk_quota: 1024M
